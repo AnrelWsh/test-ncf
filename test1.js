@@ -1,1 +1,1 @@
-console.log("guten tag")
+console.log("buna ziua")
